@@ -1,0 +1,8 @@
+/multi_view_fusion/mammogram_research/data/CBIS*
+/multi_view_fusion/mammogram_research/BCE/baseline*
+/multi_view_fusion/dyslexia_research/data/normal_handwriting_images/*.jpg
+/multi_view_fusion/dyslexia_research/data/dyslexic_handwriting_images/*.jpg
+/multi_view_fusion/dyslexia_research/data_dysgraphia/normal_handwriting_images/*.jpg
+/multi_view_fusion/dyslexia_research/data_dysgraphia/dyslexic_handwriting_images/*.jpg
+.DS_Store
+**/__pycache__
