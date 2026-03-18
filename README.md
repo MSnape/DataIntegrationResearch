@@ -5,4 +5,4 @@ and
 
 Dyslexia Diagnosis (.\multi_view_fusion\dyslexia_research) 
 
-In both of these directories README.md files which detail how to run the necessary ipynb and py files.
+In both of these directories there are README.md files which detail how to run the necessary ipynb and py files.
